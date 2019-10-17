@@ -132,7 +132,7 @@ img .logo {
   linear-gradient(rgba(81, 72, 55, 0.5),
                  rgba(81, 72, 55, 0.5)
   ),
-  url("images/bg1.jpg");
+  url("../images/bg1.jpg");
   background-attachment: fixed;
   background-size: cover;
   background-position: 50% 50%;
@@ -150,7 +150,7 @@ img .logo {
   linear-gradient(rgba(81, 72, 55, 0.4),
                  rgba(81, 72, 55, 0.4)
   ),
-  url("images/01.jpg") no-repeat center; 
+  url("../images/01.jpg") no-repeat center; 
   background-attachment: fixed;
   background-size: cover;
   background-position: 50% 50%;
